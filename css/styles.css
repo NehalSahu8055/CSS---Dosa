@@ -1,0 +1,40 @@
+body{
+    background-image : url('../bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-content: center;
+    font-family:'ABeeZee';
+    font-weight: bold;
+    font-size:   20px;
+    
+}
+
+h1:hover{
+    color:aqua
+}
+a:visited,a:link{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color:azure;
+
+}
+
+img{
+    box-shadow: 5px 10px 20px ;
+    border-radius : 900px;
+    /* height : auto; */
+}
+
+img:hover{
+    transform : scaleX(-1);
+    color: greenyellow;
+}
+bottom{
+    
+    font-family:'ABeeZee';
+      font-size: 15px;
+      color: lightgreen;
+      text-shadow: 2px 3px 2px blue;
+ }
